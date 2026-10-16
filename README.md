@@ -1,5 +1,3 @@
-<div align="center">
-
 # Md. Shofiul Alam 👋
 
 ### Full Stack Web Developer
@@ -8,13 +6,9 @@ Building modern web experiences with **TypeScript, React, and Next.js**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-shoalam-181717?style=for-the-badge&logo=github)](https://github.com/shoalam)
 
-</div>
-
 ---
 
 ## 🧰 Tech stack
-
-<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -25,8 +19,6 @@ Building modern web experiences with **TypeScript, React, and Next.js**.
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
-
 ## 🚀 Recently updated repositories
 
 | Repository | Focus | Last pushed |
@@ -34,6 +26,9 @@ Building modern web experiences with **TypeScript, React, and Next.js**.
 | [**fin2u-lms**](https://github.com/shoalam/fin2u-lms) | Fin2u Academy frontend · Next.js, TypeScript, Redux Toolkit, Tailwind CSS | Oct 2026 |
 | [**bytespace-lms**](https://github.com/shoalam/bytespace-lms) | LMS project · Next.js, React, TypeScript, Tailwind CSS | Sep 2026 |
 | [**scroll-driven-story-telling**](https://github.com/shoalam/scroll-driven-story-telling) | Scroll-driven storytelling · Next.js, GSAP, Framer Motion | Aug 2026 |
+| [**buddyscript_backend**](https://github.com/shoalam/buddyscript_backend) | REST API for the BuddyScript social networking platform · JavaScript | Apr 2026 |
+| [**buddyscript_frontend**](https://github.com/shoalam/buddyscript_frontend) | BuddyScript frontend · Next.js, CSS | Apr 2026 |
+| [**vue-blog**](https://github.com/shoalam/vue-blog) | Full-stack blog CMS · Vue 3, Naive UI, Express.js | Jan 2026 |
 
 ## 🌱 About me
 
@@ -43,8 +38,4 @@ Building modern web experiences with **TypeScript, React, and Next.js**.
 
 ---
 
-<div align="center">
-
 *Keep learning. Keep building. Keep improving.* 🚀
-
-</div>
