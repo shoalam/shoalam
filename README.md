@@ -1,53 +1,54 @@
-Hi, I'm Md. Shofiul Alam 👋
-Web Developer | Building Modern Web Experiences
+# Hi, I'm Md. Shofiul Alam 👋
 
-I'm passionate about web development, building practical applications, and continuously improving my programming skills. I enjoy exploring new technologies and turning ideas into useful digital experiences.
+**Web Developer | Building modern web experiences**
 
-🔭 Working on web development projects
-🌱 Continuously learning and improving my technical skills
-💻 Interested in frontend development and full-stack web applications
-🤝 Open to collaboration, learning, and open-source contributions
-🎯 Focused on writing clean, maintainable, and efficient code
-🛠️ Technologies & Tools
-Languages
+I'm passionate about web development, building practical applications, and continuously improving my programming skills.
 
-!HTML5 !CSS3 !JavaScript !PHP
+- 🔭 Working on web development projects
+- 🌱 Continuously learning and improving my technical skills
+- 💻 Interested in frontend and full-stack development
+- 🤝 Open to collaboration and open-source contributions
 
-Frameworks & Libraries
+## 🛠️ Technologies & Tools
 
-!React
+**Languages**
 
-Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-!Git !GitHub !VS Code
+**Frameworks & Libraries**
 
-🚀 Featured Projects
-📄 CV Project
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-A CV-related web project demonstrating web development and page design.
+**Tools**
 
-🌐 Portfolio Project
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-A portfolio website project focused on presenting web content and design.
+## 🚀 Featured Projects
 
-📝 Registration Form
+### CV Project
 
-A registration form project demonstrating form layout and web interface development.
+A web project focused on CV presentation and design.
 
-⚛️ React PHP Simple App
+### Portfolio Project
 
-A project exploring the integration of React and PHP.
+A portfolio website showcasing web development skills.
 
-Explore my repositories for more projects and experiments.
-📊 GitHub Activity
+### Registration Form
 
-!GitHub Profile Views
+A web form project demonstrating form design and development.
 
-🤝 Connect With Me
+### React PHP Simple App
 
-![GitHub](https://img.shields.io/badge/GitHub-shoalam-181717?style=flat-square&logo=github) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+A project exploring React and PHP integration.
 
-💡 My Philosophy
-Keep learning, keep building, and keep improving.
+## 🤝 Connect With Me
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+[![GitHub](https://img.shields.io/badge/GitHub-shoalam-181717?style=flat-square&logo=github)](https://github.com/shoalam)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
+*Keep learning. Keep building. Keep improving.*
